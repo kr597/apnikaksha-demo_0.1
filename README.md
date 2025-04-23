@@ -1,2 +1,3 @@
 # apnikaksha-demo_0.1
-This is my first GitRepository
+This is my first GitRepository.
+Author - Krishnakant Choubey
